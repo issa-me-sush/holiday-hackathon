@@ -4,9 +4,9 @@ lenspoink
 ### Team Members:
 - **Name:** aditya 
 - **Name:** allen 
-  **Lens Handle:** allenj
+- **Lens Handle:** allenj
 - **Name:** sushaan
-  **Lens Handle:** luniacllama
+- **Lens Handle:** luniacllama
 
 
 ### Project Description:
@@ -49,11 +49,12 @@ many more ecosystem dapps coming soon...
 [source code](https://github.com/issa-me-sush/lens-holiday-hack)
 
 ### Preview Link (Optional):
-lenspoink.vercel.app
-x.com/poinky42
+[website](lenspoink.vercel.app)
+[AI agent](x.com/poinky42)
 
 ### Demo Video/Slide Deck Link (Optional):
-[demo video](https://github.com/issa-me-sush/lens-holiday-hack)
+[demo video](https://drive.google.com/drive/folders/1vL_nqlamwoWXerYknErjeY1M5u7ZfX5e?usp=sharing)
+[pitch deck]()
 
 ### Screenshots (Optional):
 <img width="607" alt="image" src="https://github.com/user-attachments/assets/2da1bfa1-4e2a-400e-9354-027befa52b44" />
