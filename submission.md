@@ -54,7 +54,7 @@ many more ecosystem dapps coming soon...
 
 ### Demo Video/Slide Deck Link (Optional):
 [demo video](https://drive.google.com/drive/folders/1vL_nqlamwoWXerYknErjeY1M5u7ZfX5e?usp=sharing)
-[pitch deck]()
+[pitch deck](https://www.canva.com/design/DAGaLGhnOxA/CO8VoCrn2brC3r4eAgiQbg/edit?utm_content=DAGaLGhnOxA&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Screenshots (Optional):
 <img width="607" alt="image" src="https://github.com/user-attachments/assets/2da1bfa1-4e2a-400e-9354-027befa52b44" />
